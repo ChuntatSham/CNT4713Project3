@@ -1,12 +1,13 @@
 /*******************
 
+
 Team members and IDs:
 Junjie Yang 6138470
 Chun Tat Sham 6161063
 Yuhan Qin 5595982
 
 Github link:
-https://github.com/ChuntatSham/CNT4713Project3.git
+https://github.com/ChuntatSham/CNT4713Project3
 
 
 *******************/
